@@ -1,0 +1,269 @@
+.mnav{
+    background-color:rgb(16, 18, 31) ;
+    height: 55px;
+    display: block;
+    width: 1923px;
+}
+
+img#logo{
+    width: 105px;
+    height: 38px;
+    position: relative;
+    top: 15px;
+    right: -4px;
+}
+.hello{
+    width: 190px;
+    height:60px;
+    position: relative;
+    left: 150px;
+    top: -38px;
+    color: white;
+    font-size:10px;
+}
+
+.col-xs-offset-2 {
+    margin-left: 16.66666667%;
+    top: -96px;
+    right: -174px;
+    left: 76px;
+} 
+.input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 87%;
+    margin-bottom: 0px;
+    left: -30px;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    left: -29px;
+} 
+h4#h4 {
+    font-size: 15px;
+    position: relative;
+    top: 3px;
+    left: 10px;
+}
+.container-fluid{
+    position: relative;
+    right:65px;
+    top: -26px;
+}
+ img#ic8 {
+        border: aqua;
+        position: relative;
+        right: -121px;
+        top: -92px;
+        width: 28px;
+    
+}
+
+h4#accts {
+    position: relative;
+    right: -1590px;
+    top: -46px;
+    color: white;
+    font-size: 15px;
+    
+}
+h4#return {
+    position: relative;
+    color: rgb(255, 255, 255);
+    top: -87px;
+    font-size: 12px;
+    right: -1717px;
+    /* border: 5px solid red; */
+    
+}
+h4#order {
+    position: relative;
+    right: -116px;
+    top: -96px;
+    color: white;
+    font-size: 17px;
+}
+img#shop {
+    
+    position: relative;
+    right: -193px;
+    top: -149px;
+    width: 48px;
+    height:39px
+}
+h4#cart {
+    position: relative;
+    left: 1846px;
+    top: -176px;
+    color: white;
+}
+/* ################################################################################################ */
+.nav2 {
+    background-color: rgb(9, 13, 53);
+    height: 41px;
+    position: relative;
+    top: -181px;
+}
+.contents {
+    position: relative;
+    right: -30px;
+    font-size: 15px;
+    font-weight: bold;
+    word-spacing: 18px;
+    top: 10px;
+    font-family: revert;
+    
+}
+a#all {
+    text-decoration: none;
+    color: white;
+}
+a#mobile {
+    text-decoration: none;
+    color: white;
+}
+a#bestsell {
+    text-decoration: none;
+    color: white;
+}
+a#fashion {
+    text-decoration: none;
+    color: white;
+}
+a#electronics {
+    text-decoration: none;
+    color: white;
+}
+a#customer {
+    text-decoration: none;
+    color: white;
+}
+a#amzonpay {
+    text-decoration: none;
+    color: white;
+}
+a#prime {
+    text-decoration: none;
+    color: white;
+}
+a#todaydeal {
+    text-decoration: none;
+    color: white;
+}
+a#newrelease {
+    text-decoration: none;
+    color: white;
+}
+a#computer {
+    text-decoration: none;
+    color: white;
+}
+a#homekitchen {
+    text-decoration: none;
+    color: white;
+}
+a#toys {
+    text-decoration: none;
+    color: white;
+}
+a#book {
+    text-decoration: none;
+    color: white;
+}
+a#sell {
+    text-decoration: none;
+    color: white;
+}
+a#coupons {
+    text-decoration: none;
+    color: white;
+}
+h4#joinprimetxt {
+    color: white;
+    position: relative;
+    right: -1623px;
+    top: -16px;
+    font-size: 14px;
+    font-weight: bold;
+    word-spacing: 0px;
+}
+.jss {
+    color: white;
+    position: relative;
+    right: -1763px;
+    top: -55px;
+    font-size: 27px;
+    font-weight: 100;
+    word-spacing: 7px;
+    width: 71px;
+}
+img#primelogo {
+    width: 86px;
+    position: relative;
+    right: -1781px;
+    top: -83px;
+}
+/* #$################################################################################################ */
+img#imgslide {
+    width: 1752px;
+    height: 756px;
+    position: relative;
+    top: -187px;
+    right: -87px;
+}
+/* ################################################# */
+.prod1 {
+    background-color: white;
+    border: 2px solid;
+    color: black;
+    position: relative;
+    right: -222px;
+    top: -608px;
+    width: 421px;
+    height: 508px;
+}
+img#lp1 {
+    position: relative;
+    right: -20px;
+    bottom: -30px;
+}
+h3#upt {
+    font-size: 30px;
+    font-weight: bolder;
+    position: relative;
+    right: -25px;
+}
+h6, .h6 {
+    font-size: 13px;
+    position: relative;
+    bottom: -59px;
+    right: -19px;
+    text-decoration: none;
+}
+.prod12 {
+    border: 2px solid black;
+    position: relative;
+    height: 508px;
+    width: 421px;
+    right: -698px;
+    top: -1116px;
+    background-color: white;
+}
+.prod2img {
+    position: relative;
+    right: -22px;
+    top: 31px;
+}
+h6#seeem {
+    position: relative;
+    bottom: -104px;
+}
